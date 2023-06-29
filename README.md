@@ -3,4 +3,5 @@
 I'm an Information Systems student at King Abdulaziz University, and I have a keen interest in all things tech.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Alnowaiser)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Alnowaiser&hide_progress=true)
+
