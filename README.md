@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
+
 <!--
 **Khalid-Alnowaiser/Khalid-Alnowaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
